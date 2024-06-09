@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Vincent Adumuah Tetteh</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<img src="https://i.redd.it/jqqjv6ne5yx81.jpg" height="350px" width="100%" alt="kunflex" />
+
+<h1>Hi 👋, I'm Vincent Adumuah Tetteh</h1>
+<h3>A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunflex&label=Profile%20views&color=0e75b6&style=flat" alt="kunflex" /> </p>
 
