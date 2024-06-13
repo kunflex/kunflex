@@ -23,7 +23,7 @@ Passionate Full Stack Developer in building dynamic and responsive web applicati
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vincentadumuah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vincentadumuah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vincenttetteh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincenttetteh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vincent tetteh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincenttetteh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Front-End:</h3>
